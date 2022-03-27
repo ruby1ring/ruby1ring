@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! Would you like to make a friend to me? <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+### Full-stack developer
+
+- :book: 研究生阶段正在研究深度学习超分辨率重建相关工作
+- :fire: 正在阅读技术英文文档来深入学习包含Mysql, React, Golang等技术
+- 🌱 学习leetcode算法，并运用到实际工程中
+- :bulb: 收集很多有趣且实用的repo与文章，你可以关注我获取star动态
+
+
 
 <!--
 **ruby1ring/ruby1ring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
