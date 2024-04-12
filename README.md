@@ -2,10 +2,7 @@
 
 ### Full-stack developer
 
-- :book: 研究生阶段正在研究深度学习超分辨率重建相关工作
-- :fire: 正在阅读技术英文文档来深入学习包含Mysql, React, Golang等技术
-- 🌱 学习leetcode算法，并运用到实际工程中
-- :bulb: 收集很多有趣且实用的repo与文章，你可以关注我获取star动态
+- 🤔 I love coding, but beware: my code is bug-rich. Use at your own risk!
 
 
 
